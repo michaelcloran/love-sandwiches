@@ -101,7 +101,7 @@ rsa==4.9
 SecretStorage==2.3.1
 Send2Trash==1.5.0
 simplejson==3.16.0
-sip==4.19.21
+# sip==4.19.21
 six==1.14.0
 sos==4.5.6
 ssh-import-id==5.10
