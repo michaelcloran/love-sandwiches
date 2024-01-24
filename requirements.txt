@@ -53,7 +53,7 @@ netifaces==0.10.4
 numpy==1.24.3
 oauthlib==3.1.0
 olefile==0.46
-onboard==1.4.1
+# onboard==1.4.1
 packaging==20.3
 paramiko==2.6.0
 pbr==5.11.1
