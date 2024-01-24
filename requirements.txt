@@ -12,7 +12,7 @@ chardet==3.0.4
 Click==7.0
 cmake==3.24.1
 colorama==0.4.3
-command-not-found==0.3
+# command-not-found==0.3
 contourpy==1.1.1
 cryptography==2.8
 cupshelpers==1.0
