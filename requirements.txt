@@ -84,7 +84,7 @@ PyQt6-Qt6==6.5.0
 PyQt6-sip==13.5.1
 PyQtWebEngine==5.14.0
 pyRFC3339==1.1
-pysvn==1.9.9
+# pysvn==1.9.9
 pytest==4.6.9
 python-apt==2.0.1+ubuntu0.20.4.1
 python-dateutil==2.7.3
