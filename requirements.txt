@@ -18,7 +18,7 @@ cryptography==2.8
 # cupshelpers==1.0
 cycler==0.12.1
 dbus-python==1.2.16
-defer==1.0.6
+# defer==1.0.6
 dell-recovery==0.0.0
 DellLinuxAssistant==0.0.0
 distro==1.4.0
